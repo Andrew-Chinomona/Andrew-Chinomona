@@ -6,7 +6,7 @@
   I build web applications and internal systems for small to medium-sized companies as a freelancer &rarr;
  <a href="https://andrewchinomona.me">andrewchinomona.me</a>.
   <br/><br/>
-  I'm currently improving my Linux skills and learning the AWS cloud platform through <a href="https://aws.amazon.com/education/awseducate/">AWS Educate</a>.
+  I'm currently learning the AWS cloud platform through <a href="https://aws.amazon.com/education/awseducate/">AWS Educate</a>.
   <br/><br/>
   Outside of software, I play chess and serve on my church media team &rarr;
  <a href="https://houseofdestiny.ca">houseofdestiny.ca</a>.
@@ -48,5 +48,5 @@
 <h2 align="center">Tools I Use</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,cpp,django,postgres,mysql,sqlite,prisma,nodejs,react,nextjs,tailwind,aws,linux,git,github,figma,vercel" alt="Tools Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,python,cpp,django,postgres,mysql,sqlite,prisma,nodejs,react,nextjs,tailwind,git,github,figma,vercel" alt="Tools Icons" />
 </p>
