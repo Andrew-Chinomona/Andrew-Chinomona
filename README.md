@@ -14,7 +14,7 @@
   I live by the concept of <strong>Magis</strong> (meaning <strong>more</strong>); so <strong>100%</strong> is never quite enough. This mindset pushes me to always go above and beyond in everything I do.
 </p>
 
-<table align="center" style="border-collapse:separate;border-spacing:0;max-width:820px;width:100%;">
+<!-- <table align="center" style="border-collapse:separate;border-spacing:0;max-width:820px;width:100%;">
   <tr>
     <td style="border:1px solid #2f353d;border-radius:14px;padding:16px 18px;background:#0d1117;">
       <p style="margin:0;font-weight:800;color:#D4AF37;text-align:center;">
@@ -23,7 +23,7 @@
       <p style="margin:10px 0 0 0;text-align:center;color:#D4AF37;"><em>John 3:16</em></p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <h2 align="center">Socials</h2>
 
